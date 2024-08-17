@@ -1,0 +1,41 @@
+#sectionstyle{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    column-gap: 20px;
+    box-sizing: border-box;
+}
+#card1{
+    background-color:hsl(180, 62%, 55%) ;
+    height: 15rem;
+    width:20rem;
+    border-radius: 10px;
+}
+#card2{
+    background-color:hsl(0, 78%, 62%) ;
+    height: 15rem;
+    width:20rem;
+    border-radius: 10px;
+}
+#card3{
+    background-color: hsl(34, 97%, 64%);
+    height: 15rem;
+    width:20rem;
+    border-radius: 10px;
+}
+#card4{
+    background-color:hsl(212, 86%, 64%) ;
+    height: 13rem;
+    width:20rem;
+    border-radius: 10px;
+}
+#midsec{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
