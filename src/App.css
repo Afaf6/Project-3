@@ -10,3 +10,9 @@ h1{
 p{
   margin: 0;
 }
+@media (max-width:700){
+  #main{
+    display: flex;
+    
+  }
+}

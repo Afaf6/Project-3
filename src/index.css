@@ -18,3 +18,10 @@ body {
   align-items: center;
   flex-direction: column;
 }
+
+@media (max-width:700) {
+  #root {
+    display: flex;
+    flex-direction: column;
+  }
+}
